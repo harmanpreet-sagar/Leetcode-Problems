@@ -1,4 +1,4 @@
-# 3. Longest Substring without Repeating Strings
+# 3. Longest Substring without Duplicate Strings
 
 Given a string `s`, find the length of the **longest substring** without duplicate characters.
 
