@@ -1,5 +1,5 @@
 Difficulty,Title,Done,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Subarrays That Match a Pattern I,No,100.0,0.6684595198334382,https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i,"Array, Rolling Hash, String Matching, Hash Function"
+MEDIUM,Number of Subarrays That Match a Pattern I,Yes,100.0,0.6684595198334382,https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i,"Array, Rolling Hash, String Matching, Hash Function"
 EASY,Number of Changing Keys,Yes,97.9,0.7970178853428329,https://leetcode.com/problems/number-of-changing-keys,String
 EASY,Distribute Elements Into Two Arrays I,Yes,95.5,0.7297186224280118,https://leetcode.com/problems/distribute-elements-into-two-arrays-i,"Array, Simulation"
 HARD,Distribute Elements Into Two Arrays II,No,95.5,0.29338881183541377,https://leetcode.com/problems/distribute-elements-into-two-arrays-ii,"Array, Binary Indexed Tree, Segment Tree, Simulation"
